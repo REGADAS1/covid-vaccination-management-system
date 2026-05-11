@@ -1,0 +1,25 @@
+﻿# Build / output
+build/
+dist/
+build_local/
+dist_local/
+*.class
+*.jar~
+
+# NetBeans private config
+nbproject/private/
+
+# VS Code
+.vscode/
+
+# Dados serializados locais
+utilizadores.data
+utilizadores_backup.data
+*.data
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
